@@ -1,5 +1,5 @@
 /*
-  Snake
+  Snake Game
   by : Morteza Goodarz
 */
 
